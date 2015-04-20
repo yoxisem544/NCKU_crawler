@@ -102,6 +102,32 @@ class Spider
 
 end
 
+# 對照表
+# department                =>  系所名稱
+# department_code           =>  系號
+# serial_number             =>  序號
+# course_code               =>  課程碼
+# placement_code            =>  分班碼
+# class_category            =>  班級
+# grade                     =>  年級
+# category                  =>  類別
+# group_category            =>  組別
+# english_teaching          =>  英語授課
+# course_name               =>  課程名稱
+# course_detail_information =>  課程詳細資料連結
+# obligatory_or_elective    =>  選必修
+# credit                    =>  學分
+# teacher_name              =>  教師姓名
+# participated_headcount    =>  已選課人數
+# remaining                 =>  餘額
+# time                      =>  時間
+# classroom                 =>  教室
+# remark                    =>  備註
+# restrictions              =>  限制
+# export_participating      =>  業界專家參與
+# property_code             =>  屬性碼
+# cross_cutting_learning    =>  跨領域學程學分
+# moocs                     =>  Moocs
 
 
 
